@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Phone",
+        "price": 3500,
+        "stock": 8
+    },
+    {
+        "name": "Helmet",
+        "price": 400,
+        "stock": 8
+    },
+    {
+        "name": "Tablet",
+        "price": 2800,
+        "stock": 8
+    },
+    {
+        "name": "Smartwatch",
+        "price": 900,
+        "stock": 12
+    }
+]
